@@ -23,7 +23,6 @@ Lorsque vous vivez à l'étranger, garder une carte SIM active dans votre pays d
 | :---: | :---: | :---: |
 | ![dashboard-sms](https://github.com/user-attachments/assets/88332b67-1100-4128-9e55-09b17622f820)
 ) | ![Config](![tutor-sms](https://github.com/user-attachments/assets/b2a2ab84-6d0b-458f-bb65-1d56770e2c38)
-) | ![Logs](https://via.placeholder.com/300x600?text=SMS+Logs+Screenshot) |
 | *Statut de la connexion* | *Paramètres Telegram* | *Flux des messages* |
 
 ---
